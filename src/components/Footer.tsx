@@ -129,7 +129,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-muted-foreground text-center md:text-left">
-              © {currentYear} HealNest. All rights reserved. Made with care in India.
+              © {currentYear} HealNest. Made by Anushka Tuli 🌻 (anus22hka@gmail.com).
             </p>
             <div className="flex items-center gap-4">
               <a href="#" className="w-9 h-9 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-foreground hover:bg-secondary/80 transition-colors">
